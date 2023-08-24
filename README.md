@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shahnawaj-Quadry
-- 👀 I’m interested in Data Analytics and Data Science.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Data Analytic Projects.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently working with LLM.
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 Contact me on shahnawaj.quadry@gmail.com
 
 <!---
